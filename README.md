@@ -1,4 +1,4 @@
 # hello-world
 Greetings for whole world
-He Everybody!
+Hi Everybody!
 This is my first project.
